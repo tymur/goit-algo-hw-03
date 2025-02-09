@@ -28,4 +28,4 @@ def draw_koch_snowflake(order, size=300):
 
 
 # Виклик функції
-draw_koch_snowflake(4)
+draw_koch_snowflake(4) # Можна вказати порядок фракталу (рівень рекурсії)
